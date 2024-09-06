@@ -1,8 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 <div align="center">
-  <img src="https://en.bloggif.com/tmp/385c0982218fe64f41f98a5c1d2f4768/text.gif?1725588001" />
-  <img src="https://i.imgur.com/eAzDhfX.png" width="50" height="50">
+
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hoya76's%20Github&textBg=false&fontColor=2980B9&fontAlign=50">
+  
+  <img src="https://i.imgur.com/eAzDhfX.png" width="50" height="50" herf="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 </div>
 
 <div align="center">
