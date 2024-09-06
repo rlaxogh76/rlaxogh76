@@ -7,7 +7,7 @@
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
   <img src="https://i.imgur.com/eAzDhfX.png" weight="50" height="50" align="center">
   </a>
-  <img src="https://static.vecteezy.com/system/resources/previews/020/951/159/original/book-3d-icon-free-png.png" align="center">
+  <img src="https://static.vecteezy.com/system/resources/previews/020/951/159/original/book-3d-icon-free-png.png" align="center" weight="50" height="50">
 </div>
 
 <div align="center">
