@@ -34,4 +34,6 @@ I'm Studying front-end what I need.
            /> </div> 
     </div>
 
+Ps. 아직 배우고 있는 학생입니다.
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
