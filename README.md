@@ -7,7 +7,5 @@ I'm Studying front-end what I need.
 </div>
 
 <div>
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Podk76&show_icons=true&theme=radical)
 </div>
