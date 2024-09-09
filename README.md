@@ -5,9 +5,9 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hoya76's%20Github&textBg=false&fontColor=9895ff&fontAlign=50">
 
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-  <img src="https://i.imgur.com/eAzDhfX.png" weight="50" height="50" align="center">
+  <img src="https://pbs.twimg.com/media/FWbhLdVXEAE2Dlp.png" weight="50" height="50" align="center">
   </a>
-  <img src="https://static.vecteezy.com/system/resources/previews/020/951/159/original/book-3d-icon-free-png.png" align="center" weight="50" height="50">
+  <img src="https://static-00.iconduck.com/assets.00/personal-computer-emoji-2048x1707-tzvu6v3l.png" align="center" weight="50" height="50">
 </div>
 
 <div align="center">
