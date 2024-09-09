@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1f96e0&height=150&section=header" />
 
 <div align="center">
 
@@ -38,4 +38,4 @@ I'm Studying front-end what I need.
 
 Ps. 아직 배우고 있는 학생입니다.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1f96e0&height=150&section=footer" />
