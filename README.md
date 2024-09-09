@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-I'm Studying front-end what I need.
+  Studying Front-End
 </div>
 
 ### Learning 📖<br>
