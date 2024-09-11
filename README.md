@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN3M3E4bzlvcGExNjkzNHFmcjN0b3RjMGF2Zm5jZ2Q3cTIwbXB1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y9R0QRUkLOq8oJSbAe/200w.webp" weight="50" height="50" align="center">
-  <h4>𝗦𝘁𝘂𝗱𝘆𝗶𝗻𝗴 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱</h4>
+  𝗦𝘁𝘂𝗱𝘆𝗶𝗻𝗴 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN3M3E4bzlvcGExNjkzNHFmcjN0b3RjMGF2Zm5jZ2Q3cTIwbXB1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y9R0QRUkLOq8oJSbAe/200w.webp" weight="50" height="50" align="center">
 </div>
 
