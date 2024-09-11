@@ -36,6 +36,4 @@
            /> </div> 
     </div>
 
-Ps. 아직 배우고 있는 학생입니다.
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1f96e0&height=150&section=footer" />
