@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hoya76's%20Github&textBg=false&fontColor=9895ff&fontAlign=50">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hoa76's%20Github&animation=fadeIn&fontColor=AF9BEF">
 
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
   </a>
