@@ -5,12 +5,13 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hoya76's%20Github&textBg=false&fontColor=9895ff&fontAlign=50">
 
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-  <img src="https://cdn3.emoji.gg/emojis/70482-cat-chips.gif" weight="50" height="50" align="center">
   </a>
 </div>
 
 <div align="center">
-  Studying Front-End
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN3M3E4bzlvcGExNjkzNHFmcjN0b3RjMGF2Zm5jZ2Q3cTIwbXB1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y9R0QRUkLOq8oJSbAe/200w.webp" weight="50" height="50" align="center">
+  <h4>𝗦𝘁𝘂𝗱𝘆𝗶𝗻𝗴 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱</h4>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN3M3E4bzlvcGExNjkzNHFmcjN0b3RjMGF2Zm5jZ2Q3cTIwbXB1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y9R0QRUkLOq8oJSbAe/200w.webp" weight="50" height="50" align="center">
 </div>
 
 ### Learning 📖<br>
