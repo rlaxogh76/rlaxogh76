@@ -8,6 +8,7 @@
 
 <div align="center">
   Hi there, I'm H0Y4, who going to Gyeongbuk Software High School.
+  You can call me Taeho Kim, hoya
 </div>
 
 <p align="center">
