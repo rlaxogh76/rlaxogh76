@@ -7,8 +7,7 @@
 </div>
 
 <div align="center">
-  Hi there, I'm H0Y4, who going to Gyeongbuk Software High School.
-  You can call me Taeho Kim, hoya
+Hi, Hoya is here. 🖐️
 
 <p align="center">
   <a href="https://skillicons.dev">
