@@ -9,16 +9,16 @@
 <div align="center">
   Hi there, I'm H0Y4, who going to Gyeongbuk Software High School.
   You can call me Taeho Kim, hoya
-</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,react,js,mui,discord,discordjs,twitter,vscode,codepen,blender" />
   </a>
 </p>
+</div>
 
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Podk76&bg_color=60,ffaf7a,e576d1&title_color=0008ff&text_color=0008ff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Podk76&layout=compact&bg_color=60,ffaf7a,e576d1&title_color=0008ff&text_color=0008ff"
-           /> </div> 
-    </div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Podk76&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Podk76&langs_count=10&layout=compact&theme=2B5BBD" alt="Top Languages"/>
+</div>
