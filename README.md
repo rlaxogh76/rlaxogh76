@@ -25,3 +25,20 @@
 </div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Podk76&theme=juicyfresh&no-bg=true" />
+
+<h2>Projects 🛠️</h2>
+<div style="display:flex">
+<a href="https://github.com/Podk76/Movie_Project">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Podk76&repo=Movie_Project&theme=dracula"/>
+    <img alt="Movie_Project" src="https://ghrs.vercel.app/api/pin/?username=Podk76&repo=Movie_Project">
+  </picture>
+</a>
+
+<a href="https://github.com/Podk76/Todo-List">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Podk76&repo=Todo-List&theme=dracula"/>
+      <img alt="Todo-List" src="https://ghrs.vercel.app/api/pin/?username=Podk76&repo=Todo-List">
+    </picture>
+  </a>
+</div>
