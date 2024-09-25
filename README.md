@@ -31,7 +31,7 @@ Hi, Hoya is here. 🖐️
   <summary>Contact</summary>
   <a href="mailto:btm.email2769@gmail.com?subject=title&body=text">
     
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Send Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btm.email2769@gmail.com)
   </a>
 </details>
 
