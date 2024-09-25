@@ -28,7 +28,7 @@ Hi, Hoya is here. 🖐️
 </details>
 
 <h2>Projects 🛠️</h2>
-September
+August ~ September
 <div style="display:flex">
 <a href="https://github.com/Podk76/Movie_Project">
   <picture>
