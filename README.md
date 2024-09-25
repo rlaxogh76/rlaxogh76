@@ -27,6 +27,14 @@ Hi, Hoya is here. 🖐️
 <img src="https://github-profile-trophy.vercel.app/?username=Podk76&theme=juicyfresh&no-bg=true" />
 </details>
 
+<details>
+  <summary>Contact</summary>
+  <a href="mailto:btm.email2769@gmail.com?subject=title&body=text">
+    
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  </a>
+</details>
+
 <h2>Projects 🛠️</h2>
 August ~ September
 <div style="display:flex">
