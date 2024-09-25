@@ -53,8 +53,9 @@ Hi, Hoya is here. 🖐️
   </a>
 </div>
 
-<h2>Todo List Goal 📝</h2>
+<h2>Monthly Todo Goal 📝</h2>
 <ul>
-  <li>Login Templete(Until October)</li>
-  <li>Movie Project(Until October)</li>
+  <li>please study hard</li>
+  <li>please study hard</li>
+  <li>please study hard</li>
 </ul>
