@@ -11,7 +11,7 @@ Hi, Hoya is here. 🖐️
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,react,js,mui,discord,discordjs,twitter,vscode,codepen,blender" />
+    <img src="https://skillicons.dev/icons?i=git,github,react,js,mui,discord,discordjs,twitter,vscode,codepen,blender,java" />
   </a>
 </p>
 </div>
