@@ -29,10 +29,11 @@ Hi, Hoya is here. 🖐️
 
 <details>
   <summary>Contact</summary>
-  <a href="mailto:btm.email2769@gmail.com?subject=title&body=text">
-    
-[![Send Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btm.email2769@gmail.com)
-  </a>
+
+  <a href='mailto:btm.email2769@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&labelColor=DA5145&color=DA5145'/></a>
+  <a href='https://velog.io/@hoya76/posts' target="_blank"><img alt='Velog' src='https://img.shields.io/badge/Velog-100000?style=for-the-badge&logo=Velog&logoColor=white&labelColor=1EC997&color=1EC997'/></a>
+  <a href='https://discord.gg/AsmhX6kb' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=FFFFFF&labelColor=5562EB&color=5562EB'/></a>
+  
 </details>
 
 <h2>Projects 🛠️</h2>
