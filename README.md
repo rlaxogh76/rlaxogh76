@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=H0Y4's%20Github&fontColor=5562EB&desc=think%20creatively.&animation=fadeIn">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=H0Y4's%20Github&fontColor=5562EB&desc=think%20creatively.%20create%20simply.&animation=fadeIn">
 
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
   </a>
