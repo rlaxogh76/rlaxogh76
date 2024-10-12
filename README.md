@@ -28,7 +28,7 @@ Hi, Hoya is here. 🖐️
 </details>
 
 <details>
-  <summary>Contact</summary>
+  <summary>Links</summary>
 
   <a href='mailto:btm.email2769@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&labelColor=DA5145&color=DA5145'/></a>
   <a href='https://velog.io/@hoya76/posts' target="_blank"><img alt='Velog' src='https://img.shields.io/badge/Velog-100000?style=for-the-badge&logo=Velog&logoColor=white&labelColor=1EC997&color=1EC997'/></a>
