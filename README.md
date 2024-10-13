@@ -7,13 +7,13 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,react,js,mui,discord,discordjs,twitter,vscode,codepen,blender,java" />
+      <img src="https://skillicons.dev/icons?i=react,js,threejs,mui,discord,twitter,vscode,codepen,blender,java" />
     </a>
   </p>
 </div>
 
 <details>
-  <summary>Github Status</summary>
+  <summary>Github Stats</summary>
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Podk76&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Podk76&langs_count=10&layout=compact&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Top Languages"/>
