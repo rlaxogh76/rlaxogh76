@@ -7,7 +7,6 @@
 </div>
 
 <div align="center">
-Hi, Hoya is here. 🖐️
 
 <p align="center">
   <a href="https://skillicons.dev">
