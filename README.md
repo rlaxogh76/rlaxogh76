@@ -12,6 +12,10 @@
   </p>
 </div>
 
+<div>
+  <img align="right" width="20%" src="https://media.tenor.com/oMhNtk2VwdcAAAAM/yellow-blob.gif">
+</div>
+
 <details>
   <summary><b>Github Stats 📊</b></summary>
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
