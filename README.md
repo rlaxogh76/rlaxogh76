@@ -34,6 +34,10 @@
 
 <details>
   <summary><b>Completed Projects 🛠️</b></summary>
+  <blockquote>
+    This is where you can see the finished project.<br>
+    The bug fix continues!
+  </blockquote>
     <a href="https://github.com/Podk76/Todo-List">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Podk76&repo=Todo-List&theme=dracula"/>
