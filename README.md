@@ -13,7 +13,6 @@
 </div>
 
 <div>
-  <img align="right" width=22% src="https://pbs.twimg.com/card_img/1842927801051054080/M2uP3jce?format=png&name=900x900">
   <img align="right" width="22%" src="https://github.com/user-attachments/assets/a0937c21-7d6f-47fd-8eb8-8ca1b0d1819c">
 </div>
 
