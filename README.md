@@ -13,7 +13,7 @@
 </div>
 
 <div>
-  <img align="right" width="22%" src="https://github.com/user-attachments/assets/a0937c21-7d6f-47fd-8eb8-8ca1b0d1819c">
+  <img align="right" width="22%" src="https://cdn3.emoji.gg/emojis/1947-blobcat-roll.gif">
 </div>
 
 <details>
