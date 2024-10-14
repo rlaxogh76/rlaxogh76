@@ -13,7 +13,7 @@
 </div>
 
 <div>
-  <img align="right" width="22%" src="https://cdn3.emoji.gg/emojis/1947-blobcat-roll.gif">
+  <img align="right" width="22%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/108007761/376126109-a0937c21-7d6f-47fd-8eb8-8ca1b0d1819c.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241014%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241014T102442Z&X-Amz-Expires=300&X-Amz-Signature=d46461fd76d18db179142e16ef9ead9fa30e2d614db23b3a109e5577bc0a5201&X-Amz-SignedHeaders=host">
 </div>
 
 <details>
