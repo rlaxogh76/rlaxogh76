@@ -51,8 +51,8 @@
   <summary><b>About me ℹ️</b></summary>
   <blockquote>
     Hi, I'm H0Y4 who studying web skills to be a developer.<br>
-    You can call me Hoya, taeho kim, whatever you want.<br>
-    I like memes, drawing arts, design webistes, and listening a music.<br>
+    You can call me Hoya, taeho Kim, whatever you want.<br>
+    I like memes, drawing arts, design websites, and listening a music.<br>
   </blockquote>
 
   <img src="https://cdn3.emoji.gg/emojis/1878-blobcat-code.gif">
