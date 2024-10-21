@@ -12,8 +12,6 @@
   </p>
 </div>
 
-<img witdh="10%" src="https://i.pinimg.com/originals/3e/50/c8/3e50c82d8802a640d1e68cf7a7427d74.gif">
-
 <details>
   <summary><b>Github Stats 📊</b></summary>
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
