@@ -1,3 +1,4 @@
+<img src="https://media1.tenor.com/m/3-zt2Wtxch4AAAAC/rainbow-rainbow-bar.gif">
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fba4856a-e0c2-45ae-9f67-388b4baaee3e">
 </div>
@@ -46,3 +47,4 @@
   </a>
 </div>
 </details>
+<img src="https://media1.tenor.com/m/3-zt2Wtxch4AAAAC/rainbow-rainbow-bar.gif">
