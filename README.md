@@ -12,10 +12,6 @@
   </p>
 </div>
 
-<div>
-  <img align="right" width="22%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhuZ3ljNTdwOXhmZXJxeGRmeHVub2E5ajV5Ym9yZThkdGl3cjF1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UYWjL9RfZ2i1GyHoXX/giphy.gif">
-</div>
-
 <details>
   <summary><b>Github Stats 📊</b></summary>
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
@@ -50,21 +46,3 @@
   </a>
 </div>
 </details>
-
-<details>
-  <summary><b>About me ℹ️</b></summary>
-  <blockquote>
-    Hi, I'm H0Y4 who studying web skills to be a developer.<br>
-    You can call me Hoya, taeho Kim, whatever you want.<br>
-    I like memes, drawing arts, design websites, and listening a music.<br>
-  </blockquote>
-
-  <img src="https://cdn3.emoji.gg/emojis/1878-blobcat-code.gif">
-</details>
-
-<div>
-  <h2>Monthly Todo Goal 📝</h2>
-  <ul>
-    <li>nothing yet.</li>
-  </ul>
-</div>
