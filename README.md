@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-  Howdy, I'm a student who studying about web skills. 
-
+  웹 관련 기술 공부 중인 호야라고 합니다. 👋
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,threejs,vue,vite,mui,java" />
