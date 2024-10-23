@@ -34,8 +34,7 @@
 <details>
   <summary><b>Completed Projects 🛠️</b></summary>
   <blockquote>
-    This is where you can see the finished project.<br>
-    The bug fix continues!
+    완성된 프로젝트가 올라오는 곳입니다.
   </blockquote>
     <a href="https://github.com/Podk76/Todo-List">
     <picture>
