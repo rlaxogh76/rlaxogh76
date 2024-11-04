@@ -15,6 +15,14 @@
   <summary><b>Github Stats 📊</b></summary>
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     
+  <a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Podk76?pet-id=641187008621817404"
+    width="600"
+    height="120"
+  />
+  </a>
+  
   ![Podk76's Stats](https://github-readme-stats.vercel.app/api?username=Podk76&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
     
   ![Podk76's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Podk76&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
