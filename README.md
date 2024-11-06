@@ -16,11 +16,11 @@
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     
   <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/Podk76?pet-id=641187008621817404"
-    width="600"
-    height="120"
-  />
+    <img
+      src="https://render.gitanimals.org/farms/Podk76"
+      width="600"
+      height="300"
+    />
   </a>
   
   ![Podk76's Stats](https://github-readme-stats.vercel.app/api?username=Podk76&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
