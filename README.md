@@ -46,7 +46,7 @@
   </blockquote>
     <a href="https://github.com/rlaxogh76/Todo-List">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Podk76&repo=Todo-List&theme=dracula"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=rlaxogh76&repo=Todo-List&theme=dracula"/>
       <img alt="Todo-List" src="https://ghrs.vercel.app/api/pin/?username=rlaxogh76&repo=Todo-List">
     </picture>
   </a>
