@@ -6,7 +6,7 @@
   웹 관련 기술 공부 중인 호야라고 합니다. 👋
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=,react,threejs,vue,vite,mui,java,spring" />
+      <img src="https://skillicons.dev/icons?i=spring,react,threejs,vue,vite,mui,java" />
     </a>
   </p>
 </div>
