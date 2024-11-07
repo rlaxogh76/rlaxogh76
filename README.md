@@ -2,10 +2,6 @@
   <img src="https://github.com/user-attachments/assets/fba4856a-e0c2-45ae-9f67-388b4baaee3e">
 </div>
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00ABF7&width=440&lines=%EC%9B%B9+%EA%B4%80%EB%A0%A8+%EA%B8%B0%EC%88%A0+%EA%B3%B5%EB%B6%80+%EC%A4%91%EC%9D%B8+%ED%98%B8%EC%95%BC%EB%9D%BC%EA%B3%A0+%ED%95%A9%EB%8B%88%EB%8B%A4.+%F0%9F%91%8B;Hi%2C+I'm+H0Y4%2C+learning+web+dev+skills.+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</div>
-
 <div text-align="center">
 <p align="center">
   <a href="https://skillicons.dev">
@@ -13,6 +9,9 @@
   </a>
 </p>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=700&pause=100&color=FFFFFF&multiline=true&repeat=false&width=700&height=130&lines=%E2%96%8FHi%2C+I'm+H0Y4(rlaxogh76)+%F0%9F%91%8B;%E2%96%8FI'm+interested+in+Design%2C+Create%2C+drawing+.;%E2%96%8FI'm+learning+FrontEnd+%26+BackEnd.+%F0%9F%8C%90;%E2%96%8FCurrently%2C+I'm+learning+Spring%2C+React.%2C+etc.+%F0%9F%93%96;%E2%96%8FIf+you+need+to+contact+me%2C+click+%22LINKS%22++details!+%F0%9F%98%8D)](https://git.io/typing-svg)
+
 <details>
   <summary><b>Github Stats 📊</b></summary>
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
