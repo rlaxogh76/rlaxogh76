@@ -42,9 +42,6 @@
 
 <details>
   <summary><b>Completed Projects 🛠️</b></summary>
-  <blockquote>
-    완성된 프로젝트가 올라오는 곳입니다.
-  </blockquote>
     <a href="https://github.com/rlaxogh76/Todo-List">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=rlaxogh76&repo=Todo-List&theme=dracula"/>
