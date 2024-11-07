@@ -4,13 +4,17 @@
 
 <div text-align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=3000&pause=1000&color=00B8F7&center=%EC%A7%84%EC%8B%A4&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=&width=500&lines=%EC%9B%B9+%EA%B4%80%EB%A0%A8+%EA%B8%B0%EC%88%A0+%EA%B3%B5%EB%B6%80+%EC%A4%91%EC%9D%B8+%ED%98%B8%EC%95%BC%EB%9D%BC%EA%B3%A0+%ED%95%A9%EB%8B%88%EB%8B%A4.+%F0%9F%91%8B;Hi%2C+I'm+H0Y4%2C+learning+web+dev+skills.+%F0%9F%91%8B;%E3%82%A6%E3%82%A7%E3%83%96%E9%96%A2%E9%80%A3%E3%81%AE%E6%8A%80%E8%A1%93%E3%82%92%E5%8B%89%E5%BC%B7%E4%B8%AD%E3%81%AE%E3%83%9B%E3%83%A4%E3%81%A7%E3%81%99%E3%80%82%F0%9F%91%8B;%E6%88%91%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF%EF%BC%8C%E6%88%91%E6%98%AFH0Y4%E3%80%82%F0%9F%91%8B)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=&width=435&lines=%EC%9B%B9+%EA%B4%80%EB%A0%A8+%EA%B8%B0%EC%88%A0+%EA%B3%B5%EB%B6%80+%EC%A4%91%EC%9D%B8+%ED%98%B8%EC%95%BC%EB%9D%BC%EA%B3%A0+%ED%95%A9%EB%8B%88%EB%8B%A4.+%F0%9F%91%8B;Hi%2C+I'm+H0Y4%2C+learning+web+dev+skills.+%F0%9F%91%8B;%E3%82%A6%E3%82%A7%E3%83%96%E9%96%A2%E9%80%A3%E3%81%AE%E6%8A%80%E8%A1%93%E3%82%92%E5%8B%89%E5%BC%B7%E4%B8%AD%E3%81%AE%E3%83%9B%E3%83%A4%E3%81%A7%E3%81%99%E3%80%82%F0%9F%91%8B;%E6%88%91%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF%EF%BC%8C%E6%88%91%E6%98%AFH0Y4%E3%80%82%F0%9F%91%8B" alt="Typing SVG">
+  </a>
+</p>
 
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,react,threejs,vue,vite,mui,java" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,react,threejs,vue,vite,mui,java" />
+  </a>
+</p>
 </div>
 <details>
   <summary><b>Github Stats 📊</b></summary>
