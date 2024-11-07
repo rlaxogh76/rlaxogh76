@@ -24,11 +24,11 @@
     />
   </a>
   
-  ![Podk76's Stats](https://github-readme-stats.vercel.app/api?username=Podk76&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+  ![rlaxogh76's Stats](https://github-readme-stats.vercel.app/api?username=rlaxogh76&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
     
-  ![Podk76's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Podk76&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+  ![rlaxogh76's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaxogh76&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
     
-  <img src="https://github-profile-trophy.vercel.app/?username=Podk76&theme=juicyfresh&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rlaxogh76&theme=juicyfresh&no-bg=true" />
     
   </div>
 </details>
