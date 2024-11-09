@@ -39,7 +39,7 @@
   <a href='https://velog.io/@hoya76/posts' target="_blank"><img alt='Velog' src='https://img.shields.io/badge/Velog-100000?style=for-the-badge&logo=Velog&logoColor=white&labelColor=1EC997&color=1EC997'/></a>
   <a href='https://discord.gg/AsmhX6kb' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=FFFFFF&labelColor=5562EB&color=5562EB'/></a>
 
-  [![Donate Me 🥺](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/oya76377/)
+  [![Donate Me 🥺](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)]([https://www.paypal.me/oya76377/](https://paypal.me/hoya76377?country.x=KR&locale.x=ko_KR))
 </details>
 
 <details>
