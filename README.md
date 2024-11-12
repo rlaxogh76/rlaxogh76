@@ -40,14 +40,3 @@
   <a href='https://discord.gg/AsmhX6kb' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=FFFFFF&labelColor=5562EB&color=5562EB'/></a>
   <a href="https://paypal.me/hoya76377?country.x=KR&locale.x=ko_KR" target="_blank"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=PayPal&logoColor=003087&labelColor=FFFFFF&color=FFFFFF"/></a>
 </details>
-
-<details>
-  <summary><b>Completed Projects 🛠️</b></summary>
-    <a href="https://github.com/rlaxogh76/Todo-List">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=rlaxogh76&repo=Todo-List&theme=dracula"/>
-      <img alt="Todo-List" src="https://ghrs.vercel.app/api/pin/?username=rlaxogh76&repo=Todo-List">
-    </picture>
-  </a>
-</div>
-</details>
