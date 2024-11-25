@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fba4856a-e0c2-45ae-9f67-388b4baaee3e">
+  
+  ![custom-terraria-logo](https://github.com/user-attachments/assets/81f648af-9c15-4756-84a9-a0091479c11f)
+  
 </div>
-
 <div text-align="center">
 <p align="center">
   <a href="https://skillicons.dev">
