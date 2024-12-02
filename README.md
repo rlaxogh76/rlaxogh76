@@ -4,11 +4,9 @@
   
 </div>
 <div text-align="center">
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,react,tailwindcss,vue,vite,mui,java" />
   </a>
-</p>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=700&pause=100&color=FFFFFF&multiline=true&repeat=false&width=700&height=130&lines=%E2%96%8FHi%2C+I'm+H0Y4(rlaxogh76)+%F0%9F%91%8B;%E2%96%8FI'm+interested+in+Design%2C+Create%2C+drawing+.;%E2%96%8FI'm+learning+FrontEnd+%26+BackEnd.+%F0%9F%8C%90;%E2%96%8FI'm+currently+learning+Spring%2C+React%2C+and+other+technologies.+%F0%9F%93%96;%E2%96%8FIf+you+need+to+contact+me%2C+click+%22LINKS%22++details!+%F0%9F%98%8D)](https://git.io/typing-svg)
