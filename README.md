@@ -2,35 +2,43 @@
   
   ![custom-terraria-logo](https://github.com/user-attachments/assets/81f648af-9c15-4756-84a9-a0091479c11f)
   
-</div>
-<div text-align="center">
+<div style="text-align: center;">
+  <p>I'm learning these ones these days!</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,react,tailwindcss,vue,vite,mui,java" />
+    <img src="https://skillicons.dev/icons?i=spring,react,styledcomponents,mui,java,scss" alt="Skill Icons" />
   </a>
 </div>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=700&pause=100&color=FFFFFF&multiline=true&repeat=false&width=700&height=130&lines=%E2%96%8FHi%2C+I'm+H0Y4(rlaxogh76)+%F0%9F%91%8B;%E2%96%8FI'm+interested+in+Design%2C+Create%2C+drawing+.;%E2%96%8FI'm+learning+FrontEnd+%26+BackEnd.+%F0%9F%8C%90;%E2%96%8FI'm+currently+learning+Spring%2C+React%2C+and+other+technologies.+%F0%9F%93%96;%E2%96%8FIf+you+need+to+contact+me%2C+click+%22LINKS%22++details!+%F0%9F%98%8D)](https://git.io/typing-svg)
 
 <details>
   <summary><b>Github Stats 📊</b></summary>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/Podk76"
-      width="600"
-      height="300"
-    />
-  </a>
-  
-  ![rlaxogh76's Stats](https://github-readme-stats.vercel.app/api?username=rlaxogh76&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
-    
-  ![rlaxogh76's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaxogh76&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-    
-  <img src="https://github-profile-trophy.vercel.app/?username=rlaxogh76&theme=juicyfresh&no-bg=true" />
-    
-  </div>
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/devxb/gitanimals">
+          <img src="https://render.gitanimals.org/farms/Podk76" alt="GitAnimals" width="300" />
+        </a>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=rlaxogh76&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" alt="GitHub Stats" width="300" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlaxogh76&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="300" />
+      </td>
+      <td>
+        <img src="https://github-profile-trophy.vercel.app/?username=rlaxogh76&theme=juicyfresh&no-bg=true" alt="GitHub Trophies" width="300" />
+      </td>
+    </tr>
+  </table>
+
 </details>
+
+
 
 <details>
   <summary><b>Links 🔗</b></summary>
