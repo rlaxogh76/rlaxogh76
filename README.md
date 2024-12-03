@@ -12,7 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=700&pause=100&color=FFFFFF&multiline=true&repeat=false&width=700&height=130&lines=%E2%96%8FHi%2C+I'm+H0Y4(rlaxogh76)+%F0%9F%91%8B;%E2%96%8FI'm+interested+in+Design%2C+Create%2C+drawing+.;%E2%96%8FI'm+learning+FrontEnd+%26+BackEnd.+%F0%9F%8C%90;%E2%96%8FI'm+currently+learning+Spring%2C+React%2C+and+other+technologies.+%F0%9F%93%96;%E2%96%8FIf+you+need+to+contact+me%2C+click+%22LINKS%22++details!+%F0%9F%98%8D)](https://git.io/typing-svg)
 
-<details>
+<details align="left">
   <summary><b>Github Stats 📊</b></summary>
 
   <table>
@@ -40,7 +40,7 @@
 
 
 
-<details>
+<details align="left">
   <summary><b>Links 🔗</b></summary>
   <a href='mailto:btm.email2769@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&labelColor=DA5145&color=DA5145'/></a>
   <a href='https://velog.io/@hoya76/posts' target="_blank"><img alt='Velog' src='https://img.shields.io/badge/Velog-100000?style=for-the-badge&logo=Velog&logoColor=white&labelColor=1EC997&color=1EC997'/></a>
