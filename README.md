@@ -7,11 +7,6 @@
     \_/\_/ \___|_|\___\___/|_| |_| |_|\___(_)
 </pre>
     
-<div style="text-align: center;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,react,styledcomponents,mui,java,scss" alt="Skill Icons" />
-  </a>
-</div>
 
 
 <pre>
@@ -22,7 +17,9 @@
 | whatever you want.                 | Certification                              |               |
 | I'm learning Web Skills TheseDays. | etc.                                       |               |
 +------------------------------------+--------------------------------------------+---------------+
-</pre>
+<div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=spring,react,styledcomponents,mui,java,scss" alt="Skill Icons" />
+</div>
 
 <details align="left">
   <summary><b>Github Stats 📊</b></summary>
@@ -59,3 +56,5 @@
   <a href='https://discord.gg/AsmhX6kb' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=FFFFFF&labelColor=5562EB&color=5562EB'/></a>
   <a href="https://paypal.me/hoya76377?country.x=KR&locale.x=ko_KR" target="_blank"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=PayPal&logoColor=003087&labelColor=FFFFFF&color=FFFFFF"/></a>
 </details>
+
+</pre>
