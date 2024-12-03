@@ -1,7 +1,11 @@
 <div align="center">
-  
-  ![custom-terraria-logo](https://github.com/user-attachments/assets/81f648af-9c15-4756-84a9-a0091479c11f)
-  
+
+ _   _      _ _        __        __         _     _ _ 
+| | | | ___| | | ___   \ \      / /__  _ __| | __| | |
+| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | |
+|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|
+|_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_(_)
+
 <div style="text-align: center;">
   <p>I'm learning these ones these days!</p>
   <a href="https://skillicons.dev">
