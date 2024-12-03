@@ -1,20 +1,28 @@
 <div align="center">
-
- _   _      _ _        __        __         _     _ _ 
-| | | | ___| | | ___   \ \      / /__  _ __| | __| | |
-| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | |
-|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|
-|_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_(_)
-
+<pre>
+ __        __   _                          _ 
+ \ \      / /__| | ___ ___  _ __ ___   ___| |
+  \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \ |
+   \ V  V /  __/ | (_| (_) | | | | | |  __/_|
+    \_/\_/ \___|_|\___\___/|_| |_| |_|\___(_)
+</pre>
+    
 <div style="text-align: center;">
-  <p>I'm learning these ones these days!</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,react,styledcomponents,mui,java,scss" alt="Skill Icons" />
   </a>
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=700&pause=100&color=FFFFFF&multiline=true&repeat=false&width=700&height=130&lines=%E2%96%8FHi%2C+I'm+H0Y4(rlaxogh76)+%F0%9F%91%8B;%E2%96%8FI'm+interested+in+Design%2C+Create%2C+drawing+.;%E2%96%8FI'm+learning+FrontEnd+%26+BackEnd.+%F0%9F%8C%90;%E2%96%8FI'm+currently+learning+Spring%2C+React%2C+and+other+technologies.+%F0%9F%93%96;%E2%96%8FIf+you+need+to+contact+me%2C+click+%22LINKS%22++details!+%F0%9F%98%8D)](https://git.io/typing-svg)
+<pre>
+|             Introduce              |                skill Stacks                |     goal      |
++------------------------------------+--------------------------------------------+---------------+
+| Hi, I'm H0Y4.                      | React with styled-components, mui, scss... | Getting a job |
+| you can call me rlaxogh76, hoya76, | Spring                                     | Become Rich   |
+| whatever you want.                 | Certification                              |               |
+| I'm learning Web Skills TheseDays. | etc.                                       |               |
++------------------------------------+--------------------------------------------+---------------+
+</pre>
 
 <details align="left">
   <summary><b>Github Stats 📊</b></summary>
