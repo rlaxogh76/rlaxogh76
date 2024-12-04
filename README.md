@@ -6,14 +6,14 @@
    \ V  V /  __/ | (_| (_) | | | | | |  __/_|
     \_/\_/ \___|_|\___\___/|_| |_| |_|\___(_)
  <br>
-+------------------------------------+--------------------------------------------+---------------+
-|             Introduce              |                skill Stacks                |     goal      |
-+------------------------------------+--------------------------------------------+---------------+
-| Hi, I'm H0Y4.                      | React with styled-components, mui, scss... | Getting a job |
-| you can call me rlaxogh76, hoya76, | Spring                                     | Become Rich   |
-| whatever you want.                 | Certification                              |               |
-| I'm learning Web Skills TheseDays. | etc.                                       |               |
-+------------------------------------+--------------------------------------------+---------------+
++-----------------------+-------------------------------------------+----------------------+
+|       About me        |                 learning                  |         Goal         |
++-----------------------+-------------------------------------------+----------------------+
+| Name : H0Y4 / rlaxogh | React with Styled-component, mui, scss... | Getting my first job |
+| Age : 17              | Spring                                    | Get certifications   |
+| he/him                | TypeScript                                |                      |
+| school : GBSW         | certification                             |                      |
++-----------------------+-------------------------------------------+----------------------+
 <div style="text-align: center;">
   <img src="https://skillicons.dev/icons?i=spring,react,styledcomponents,mui,java,scss" alt="Skill Icons" />
 </div>
