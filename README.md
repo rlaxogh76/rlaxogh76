@@ -25,7 +25,6 @@
   <tr>
    <td>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0vkut5wq6byc59zp15q51u36n&cover_image=true&theme=natemoo-re&show_offline=false&background_color=151b23&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 [![trophy](https://github-profile-trophy.vercel.app/?username=rlaxogh76)](https://github.com/rlaxogh76/github-profile-trophy)
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=rlaxogh76&theme=dark)
 ![rlaxogh76's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaxogh76&theme=default&show_icons=true&hide_border=true&layout=compact)
