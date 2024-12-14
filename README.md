@@ -1,5 +1,7 @@
 <div align="center">
 <pre>
+
+ <img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp">
  __        __   _                          _ 
  \ \      / /__| | ___ ___  _ __ ___   ___| |
   \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \ |
