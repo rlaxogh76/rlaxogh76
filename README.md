@@ -12,7 +12,7 @@
 +-----------------------+-------------------------------------------+----------------------+
 | Name : H0Y4 / rlaxogh | React with Styled-component, mui, sass... | Getting my first job |
 | Age : 17              | Spring                                    | Get certifications   |
-| he/him                | TypeScript                                |                      |
+| he/him                | TypeScript                                | Be a FullStack dev   |
 | school : GBSW         | certification                             |                      |
 +-----------------------+-------------------------------------------+----------------------+
 <div style="text-align: center;">
