@@ -20,4 +20,3 @@
  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/867071958071771157)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btm.email2769@gmail.com)
 <img src="https://github.com/rlaxogh76/rlaxogh76/blob/output/github-contribution-grid-snake.svg" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=rlaxogh76)](https://github.com/ryo-ma/github-profile-trophy)
