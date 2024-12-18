@@ -1,0 +1,33 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 매일 자정 실행
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Metrics Generator
+        uses: lowlighter/metrics@latest
+        with:
+          # 사용자명 설정
+          filename: metrics.svg
+          token: ${{ secrets.GH_TOKEN }} # GH_TOKEN 사용
+          base: 'repositories'
+          plugin_activity: yes
+          plugin_languages: yes
+          plugin_contributors: yes
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add metrics.svg
+          git commit -m "Update metrics"
+          git push
