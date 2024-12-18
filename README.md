@@ -21,11 +21,9 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/867071958071771157)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btm.email2769@gmail.com)
 
 <details>
-  <summary style="display: inline-flex; align-items: center; gap: 5px;">
-    <span style="white-space: nowrap;">𝓜&nbsp;𝓞&nbsp;𝓡&nbsp;𝓔&nbsp;&nbsp;𝓘&nbsp;𝓝&nbsp;𝓕&nbsp;𝓞&nbsp;𝓡&nbsp;𝓜&nbsp;𝓐&nbsp;𝓣&nbsp;𝓘&nbsp;𝓞&nbsp;𝓝</span>
-    <img src="https://github.com/user-attachments/assets/9bebb84e-ceb2-4bbf-9f0a-1161460340a6" 
-         style="width: 3%; height: auto;">
-  </summary>
-</details>
+ <summary>𝓜&nbsp;𝓞&nbsp;𝓡&nbsp;𝓔&nbsp;&nbsp;𝓘&nbsp;𝓝&nbsp;𝓕&nbsp;𝓞&nbsp;𝓡&nbsp;𝓜&nbsp;𝓐&nbsp;𝓣&nbsp;𝓘&nbsp;𝓞&nbsp;𝓝</summary>
 
+ <img src="">
+
+</details>
 
