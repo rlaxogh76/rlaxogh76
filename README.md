@@ -30,6 +30,7 @@
 <img src="https://github.com/user-attachments/assets/3dac3588-141f-4e3f-b9fc-68864ad1a3f6" alt="React Blob" width="10%" />  <img src="https://github.com/user-attachments/assets/509d68ec-b196-4ae2-8385-97535474d343" alt="Spring Boot Blob" width="10%" />  <img src="https://github.com/user-attachments/assets/d67f2c23-a991-482d-aaa0-e9149047f375" alt="GitHub Blob" width="10%" />
 
 ### 🌱 I’m currently learning **React, Spring, and other web-related technologies.**
+### 🏆 Next year, I'll earn a **certificate** and study **web development skills** further.
 ### ⚡ Fun fact: **Sometimes I do silly things or get fascinated by weird stuff. 😂**
 
 # Github Stats 📊
