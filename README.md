@@ -9,7 +9,7 @@
 +-----------------------+-------------------------------------------+----------------------+
 |       About me        |                 learning                  |         Goal         |
 +-----------------------+-------------------------------------------+----------------------+
-| Name : H0Y4 / rlaxogh | React with Styled-component, mui, sass... | Getting my first job |
+| Name : H0Y4 / rlaxogh | React with Styled-component, mui, ts...   | Getting my first job |
 | Age : 17              | Spring                                    | Get certifications   |
 | he/him                | TypeScript                                | Be a FullStack dev   |
 | school : GBSW         | certification                             |                      |
