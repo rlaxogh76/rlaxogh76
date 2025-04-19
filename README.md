@@ -19,7 +19,8 @@ const H0Y4 = {
   motto: "More passionate than yesterday 🌱"
 };
 ```
-### 𝐅𝐑𝐀𝐌𝐄𝐖𝐎𝐑𝐊𝐒
+### 𝐅𝐑𝐀𝐌𝐄𝐖𝐎𝐑𝐊𝐒 <img src="https://github.com/user-attachments/assets/627c6c75-c93b-4c90-bd60-6368b6702644" width="80" align="right">
+
 |  |  |  |  |
 |--|--|--|--|
 | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) |
