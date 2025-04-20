@@ -19,7 +19,7 @@ const H0Y4 = {
   motto: "More passionate than yesterday 🌱"
 };
 ```
-### 𝐅𝐑𝐀𝐌𝐄𝐖𝐎𝐑𝐊𝐒 <img src="https://github.com/user-attachments/assets/627c6c75-c93b-4c90-bd60-6368b6702644" width="80" align="right">
+### 𝐅𝐑𝐀𝐌𝐄𝐖𝐎𝐑𝐊𝐒 <img src="https://peppy-melba-47ed98.netlify.app/.netlify/functions/random-image" width="80" align="right">
 
 |  |  |  |  |
 |--|--|--|--|
