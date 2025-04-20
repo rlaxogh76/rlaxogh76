@@ -15,7 +15,6 @@ const H0Y4 = {
     "NextJs-Chat  - Nextjs-based real-time chat capability (WIP)",
     "IsThisReal - News/image verification system(TBD)",
   ],
-  github: "https://github.com/Podk76",
   motto: "More passionate than yesterday 🌱"
 };
 ```
