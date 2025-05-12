@@ -47,5 +47,7 @@ const H0Y4 = {
 |--|--|--|--|
 | [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/867071958071771157) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btm.email2769@gmail.com) | [![Linked-In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B9%80%ED%83%9C%ED%98%B8-%EA%B9%80%ED%83%9C%ED%98%B8-099213361/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/btm.email2769/)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rlaxogh76&theme=dark)](https://git.io/streak-stats)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=rlaxogh76&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rlaxogh76&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
 [![trophy](https://github-profile-trophy.vercel.app/?username=rlaxogh76&theme=onedark)](https://github.com/rlaxogh76/github-profile-trophy)
