@@ -18,7 +18,7 @@ const H0Y4 = {
   motto: "More passionate than yesterday 🌱"
 };
 ```
-### STACK <img src="https://peppy-melba-47ed98.netlify.app/.netlify/functions/random-image" width="80" align="right">
+### 𝐒𝐓𝐀𝐂𝐊 <img src="https://peppy-melba-47ed98.netlify.app/.netlify/functions/random-image" width="80" align="right">
 
 |  |  |  |  |
 |--|--|--|--|
