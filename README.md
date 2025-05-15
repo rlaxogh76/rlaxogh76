@@ -6,8 +6,8 @@ const H0Y4 = {
   interests: ["Front-end", "Back-end", "React", "Spring Boot", "Design", "AI", "Real-time apps"],
   goal: "Become a skilled developer and get employed 👨‍💻",
   skills: {
-    languages: ["Html", "Css", "JavaScript", "TypeScript", "Java", "Python", "C"],
-    frameworks: ["React", "Next.js", "Spring Boot", "Django", "FastAPI"],
+    languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Java", "Python", "C", "Styled-components"],
+    frameworks: ["React", "Next.js", "Spring Boot", "Django"],
     tools: ["VS Code", "IntelliJ", "Figma", "Git", "Vercel"]
   },
   projects: [
