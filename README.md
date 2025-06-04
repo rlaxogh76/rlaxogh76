@@ -30,22 +30,39 @@ const H0Y4 = {
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=vite" />
-<img src="https://skillicons.dev/icons?i=nextjs" />
-<img src="https://skillicons.dev/icons?i=styledcomponents" />
-<img src="https://skillicons.dev/icons?i=tailwind" />
-<img src="https://skillicons.dev/icons?i=spring" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=idea" />
-<img src="https://skillicons.dev/icons?i=notion" />
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=python" /></td>
+<td><img src="https://skillicons.dev/icons?i=c" /></td>
+<td><img src="https://skillicons.dev/icons?i=cpp" /></td>
+<td><img src="https://skillicons.dev/icons?i=html" /></td>
+<td><img src="https://skillicons.dev/icons?i=css" /></td>
+</tr>
+
+<tr>
+<td><img src="https://skillicons.dev/icons?i=javascript" /></td>
+<td><img src="https://skillicons.dev/icons?i=java" /></td>
+<td><img src="https://skillicons.dev/icons?i=react" /></td>
+<td><img src="https://skillicons.dev/icons?i=vite" /></td>
+<td><img src="https://skillicons.dev/icons?i=nextjs" /></td>
+</tr>
+
+<tr>
+<td><img src="https://skillicons.dev/icons?i=styledcomponents" /></td>
+<td><img src="https://skillicons.dev/icons?i=tailwind" /></td>
+<td><img src="https://skillicons.dev/icons?i=spring" /></td>
+<td><img src="https://skillicons.dev/icons?i=vscode" /></td>
+<td><img src="https://skillicons.dev/icons?i=idea" /></td>
+</tr>
+
+<tr>
+<td><img src="https://skillicons.dev/icons?i=notion" /></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 </div>
 
