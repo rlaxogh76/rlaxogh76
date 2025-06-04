@@ -1,8 +1,3 @@
-
-<table>
-<tr>
-<td valign="top">
-
 ```ts
 const H0Y4 = {
   name: "rlaxogh",
@@ -23,72 +18,36 @@ const H0Y4 = {
   motto: "More passionate than yesterday 🌱"
 };
 ```
+### 𝐒𝐊𝐈𝐋𝐋 <img src="https://peppy-melba-47ed98.netlify.app/.netlify/functions/random-image" width="80" align="right">
 
-</td>
+|  |  |  |  |
+|--|--|--|--|
+| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) |
 
-<td valign="top">
+### 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄
+|  |  |  |  |
+|--|--|--|--|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |  |
 
-<div align="left">
+### 𝐓𝐨𝐨𝐥𝐬 & 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬
+|  |  |  |  |
+|--|--|--|--|
+| ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |  |  |  |
 
-<table>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=python" /></td>
-<td><img src="https://skillicons.dev/icons?i=c" /></td>
-<td><img src="https://skillicons.dev/icons?i=cpp" /></td>
-<td><img src="https://skillicons.dev/icons?i=html" /></td>
-<td><img src="https://skillicons.dev/icons?i=css" /></td>
-</tr>
 
-<tr>
-<td><img src="https://skillicons.dev/icons?i=javascript" /></td>
-<td><img src="https://skillicons.dev/icons?i=java" /></td>
-<td><img src="https://skillicons.dev/icons?i=react" /></td>
-<td><img src="https://skillicons.dev/icons?i=vite" /></td>
-<td><img src="https://skillicons.dev/icons?i=nextjs" /></td>
-</tr>
+### 𝐂𝐔𝐑𝐑𝐄𝐍𝐓𝐋𝐘 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆
+|  |  |  |  |
+|--|--|--|--|
+| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
 
-<tr>
-<td><img src="https://skillicons.dev/icons?i=styledcomponents" /></td>
-<td><img src="https://skillicons.dev/icons?i=tailwind" /></td>
-<td><img src="https://skillicons.dev/icons?i=spring" /></td>
-<td><img src="https://skillicons.dev/icons?i=vscode" /></td>
-<td><img src="https://skillicons.dev/icons?i=idea" /></td>
-</tr>
-
-<tr>
-<td><img src="https://skillicons.dev/icons?i=notion" /></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="50%">
-
-<div>
+### 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄 𝐖𝐈𝐓𝐇
+|  |  |  |  |
+|--|--|--|--|
+| [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/867071958071771157) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btm.email2769@gmail.com) | [![Linked-In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B9%80%ED%83%9C%ED%98%B8-%EA%B9%80%ED%83%9C%ED%98%B8-099213361/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/btm.email2769/)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rlaxogh76&theme=dark)](https://git.io/streak-stats)
 
-</div>
-
-</td>
-
-<td valign="top">
-
-<div align="center">
-
-<br/><br/>
-<img src="https://peppy-melba-47ed98.netlify.app/.netlify/functions/random-image" />
-
-</div>
-
-</td>
-</tr>
-</table>
+![Stats](https://github-readme-stats.vercel.app/api?username=rlaxogh76&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rlaxogh76&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rlaxogh76&theme=onedark)](https://github.com/rlaxogh76/github-profile-trophy)
