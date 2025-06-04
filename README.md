@@ -49,5 +49,4 @@ const H0Y4 = {
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rlaxogh76&theme=dark)](https://git.io/streak-stats)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rlaxogh76&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rlaxogh76&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
-[![trophy](https://github-profile-trophy.vercel.app/?username=rlaxogh76&theme=onedark)](https://github.com/rlaxogh76/github-profile-trophy)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
