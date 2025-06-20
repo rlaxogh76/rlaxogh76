@@ -10,11 +10,6 @@ const H0Y4 = {
     frameworks: ["React", "Next.js", "Spring Boot", "Django"],
     tools: ["VS Code", "IntelliJ", "Figma", "Git", "Vercel"]
   },
-  projects: [
-    "CHi UP - AI interview app (WIP)",
-    "NextJs-Chat  - Nextjs-based real-time chat capability (WIP)",
-    "IsThisReal - News/image verification system(TBD)",
-  ],
   motto: "More passionate than yesterday 🌱"
 };
 ```
