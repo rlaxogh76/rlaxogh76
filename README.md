@@ -15,9 +15,10 @@ const H0Y4 = {
 ```
 <img src="https://peppy-melba-47ed98.netlify.app/.netlify/functions/random-image" width="80" align="right">
 
+## Language & Skills I've Learned and Am Currently Studying
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,java,styledcomponents,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,django,spring" />
     <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" />
     <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" />
 </div>
