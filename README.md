@@ -13,21 +13,15 @@ const H0Y4 = {
   motto: "More passionate than yesterday 🌱"
 };
 ```
-<img src="https://peppy-melba-47ed98.netlify.app/.netlify/functions/random-image" width="80" align="right">
+<img src="https://peppy-melba-47ed98.netlify.app/.netlify/functions/random-image" width="70" align="right">
 
 ## Language & Skills I've Learned and Am Currently Studying
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,java,styledcomponents,tailwind" />
     <img src="https://skillicons.dev/icons?i=react,nextjs,django,spring" />
-    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" />
-    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,idea,figma,notion" />
 </div>
 
-
-### 𝐂𝐔𝐑𝐑𝐄𝐍𝐓𝐋𝐘 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆
-|  |  |  |  |
-|--|--|--|--|
-| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
 
 ### 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄 𝐖𝐈𝐓𝐇
 |  |  |  |  |
