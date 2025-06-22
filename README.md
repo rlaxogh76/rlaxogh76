@@ -23,9 +23,11 @@ const H0Y4 = {
 
 ## Language & Skills I've Learned and Am Currently Studying
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,java,styledcomponents,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,java,styledcomponents,tailwind" />
+  <br>
     <img src="https://skillicons.dev/icons?i=react,nextjs,django,spring" />
-    <img src="https://skillicons.dev/icons?i=git,vscode,idea,figma,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=git,vscode,idea,figma,notion" />
+  <br>
 </div>
 
 <br>
