@@ -17,6 +17,7 @@ const H0Y4 = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btm.email2769@gmail.com)
 [![Linked-In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B9%80%ED%83%9C%ED%98%B8-%EA%B9%80%ED%83%9C%ED%98%B8-099213361/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/btm.email2769/)
+![](https://komarev.com/ghpvc/?username=rlaxogh76)
 
 <img src="https://peppy-melba-47ed98.netlify.app/.netlify/functions/random-image" width="70" align="right">
 <br>
