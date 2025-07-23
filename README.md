@@ -33,4 +33,3 @@ const H0Y4 = {
 
 <br>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
