@@ -17,17 +17,14 @@ const H0Y4 = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btm.email2769@gmail.com)
 [![Linked-In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B9%80%ED%83%9C%ED%98%B8-%EA%B9%80%ED%83%9C%ED%98%B8-099213361/)
 
-<img src="https://verdant-jalebi-0fc0fb.netlify.app/.netlify/functions/random-image" width="80" align="right">
-<br>
-
 ## Language & Skills I've Learned and Am Currently Studying
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,java,styledcomponents,tailwind" />
   <br>
     <img src="https://skillicons.dev/icons?i=react,nextjs,django,spring" />
     <img src="https://skillicons.dev/icons?i=git,vscode,idea,figma,notion" />
+  <img src="https://verdant-jalebi-0fc0fb.netlify.app/.netlify/functions/random-image" width="80" align="right">
   <br>
 </div>
-
 <br>
 
