@@ -23,7 +23,9 @@ const H0Y4 = {
   <br>
     <img src="https://skillicons.dev/icons?i=react,nextjs,django,spring" />
     <img src="https://skillicons.dev/icons?i=git,vscode,idea,figma,notion" />
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="https://verdant-jalebi-0fc0fb.netlify.app/.netlify/functions/random-image" width="80" align="right">
+  </a>
   <br>
 </div>
 <br>
