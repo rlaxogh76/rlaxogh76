@@ -1,16 +1,15 @@
 ```ts
-const H0Y4 = {
+const rlaxogh76 = {
   name: "rlaxogh",
   age: 17,
   school: "Gyeongbuk Software Meister High School",
-  interests: ["Front-end", "Back-end", "React", "Spring Boot", "Design", "AI", "Real-time apps"],
-  goal: "Become a skilled developer and get employed 👨‍💻",
-  skills: {
-    languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Java", "Python", "C", "Styled-components"],
+  interests: ["Front-end", "Back-end", "React", "Spring Boot"],
+  goal: "Become a full-stack developer and build impactful projects 🚀",
+  stack: {
+    languages: ["JavaScript", "Java"],
     frameworks: ["React", "Next.js", "Spring Boot", "Django"],
     tools: ["VS Code", "IntelliJ", "Figma", "Git", "Vercel"]
-  },
-  motto: "More passionate than yesterday 🌱"
+  }
 };
 ```
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/867071958071771157)
