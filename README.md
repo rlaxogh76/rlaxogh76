@@ -29,3 +29,4 @@ const rlaxogh76 = {
 </div>
 <br>
 
+[![rlaxogh76's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rlaxogh76)]
