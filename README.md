@@ -14,7 +14,7 @@ const rlaxogh76 = {
 ```
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/867071958071771157)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btm.email2769@gmail.com)
-[![Linked-In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B9%80%ED%83%9C%ED%98%B8-%EA%B9%80%ED%83%9C%ED%98%B8-099213361/)
+[![Linked-In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%83%9C%ED%98%B8-%EA%B9%80-099213361/)
 
 ## I'm studying...
 <div align="left">
