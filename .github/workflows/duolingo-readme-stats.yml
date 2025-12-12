@@ -1,0 +1,23 @@
+name: Duolingo README Stats Action
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update readme with your duolingo stats
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update Duolingo stats
+        uses: centrumek/duolingo-readme-stats@v1.0.0
+        env:
+          DUOLINGO_USER_ID: ${{ secrets.DUOLINGO_USER_ID }}
+          ADVANCED_TOKEN_JWT: ${{ secrets.ADVANCED_TOKEN_JWT }}
