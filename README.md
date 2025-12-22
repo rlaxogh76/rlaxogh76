@@ -8,9 +8,6 @@
     
 </div>
 
-<!--START_SECTION:duolingo-->
-<!--END_SECTION:duolingo-->
-
 ## I'm studying...
 <div align="left">
     <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,spring,tailwind,figma,git" />
