@@ -60,8 +60,8 @@
 
 <h2>깃허브 통계</h2>
 
-  > ![](https://github-readme-stats.vercel.app/api?username=rlaxogh76&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-  > ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaxogh76&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rlaxogh76&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaxogh76&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rlaxogh76/rlaxogh76/output/pacman-contribution-graph-dark.svg">
