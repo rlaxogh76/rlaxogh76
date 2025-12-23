@@ -10,12 +10,12 @@
 
 ---
 
-<h1>자기소개</h1>
+<h2>자기소개</h2>
 <h3>프론트엔드를 통해 많은 기술을 접하며 공부 중인 김태호라고 합니다.</h3><br>
 
 - 2024.03.01 ~ 현재 [`경북소프트웨어마이스터고등학교 🏫`](https://apply.gbsw.hs.kr/)<br>
 
-<h1>기술 스택</h1>
+<h2>기술 스택</h2>
 
 > **메인 언어 및 라이브러리**
 > 
@@ -58,21 +58,20 @@
 > ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)<br>
 > ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<h1>깃허브 통계</h1>
+<h2>깃허브 통계</h2>
 
-> ![](https://github-readme-stats.vercel.app/api?username=rlaxogh76&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaxogh76&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-> [![GitAnimals](https://render.gitanimals.org/lines/rlaxogh76?pet-id=766601633383916536)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=rlaxogh76&utm_content=line)
+  > ![](https://github-readme-stats.vercel.app/api?username=rlaxogh76&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+  > ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaxogh76&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<h1>소셜</h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rlaxogh76/rlaxogh76/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rlaxogh76/rlaxogh76/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rlaxogh76/rlaxogh76/output/pacman-contribution-graph.svg">
+  </picture>
+
+<h2>소셜</h2>
 
 > [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/867071958071771157)
 > [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btm.email2769@gmail.com)
 
----
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rlaxogh76/rlaxogh76/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rlaxogh76/rlaxogh76/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rlaxogh76/rlaxogh76/output/pacman-contribution-graph.svg">
-</picture>
