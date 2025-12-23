@@ -11,7 +11,7 @@
 ---
 
 <h1>자기소개</h1>
-<h3>프론트엔 사랑하며, 많은 기술을 접하며 공부하는 김태호라고 합니다.</h3><br>
+<h3>프론트엔드를 통해 많은 기술을 접하며 공부 중인 김태호라고 합니다.</h3><br>
 
 - 2024.03.01 ~ 현재 [`경북소프트웨어마이스터고등학교 🏫`](https://apply.gbsw.hs.kr/)<br>
 
@@ -57,6 +57,12 @@
 > ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 > ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)<br>
 > ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<h1>깃허브 통계</h1>
+
+> ![](https://github-readme-stats.vercel.app/api?username=rlaxogh76&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaxogh76&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+> [![GitAnimals](https://render.gitanimals.org/lines/rlaxogh76?pet-id=766601633383916536)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=rlaxogh76&utm_content=line)
 
 <h1>소셜</h1>
 
