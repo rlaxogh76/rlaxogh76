@@ -10,7 +10,8 @@
 
 ---
 
-<h1>About me 🙋‍♂️</h1>
+<h1>자기소개</h1>
+<h3>프론트엔 사랑하며, 많은 기술을 접하며 공부하는 김태호라고 합니다.</h3><br>
 
 - 2024.03.01 ~ 현재 [`경북소프트웨어마이스터고등학교 🏫`](https://apply.gbsw.hs.kr/)<br>
 
@@ -28,7 +29,7 @@
 
 <div align="left">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img src="https://verdant-jalebi-0fc0fb.netlify.app/.netlify/functions/random-image" width="80" align="right">
+  <img src="https://verdant-jalebi-0fc0fb.netlify.app/.netlify/functions/random-image" width="150" align="right">
   </a>
 </div>
 
@@ -45,6 +46,26 @@
 > ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br>
 > ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+> **좋아하는 도구**
+> 
+> ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+> ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br>
+> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+> ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+> ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+> ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)<br>
+> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+<h1>연락처</h1>
+
+> [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/867071958071771157)
+> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btm.email2769@gmail.com)
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%83%9C%ED%98%B8-%EA%B9%80-099213361/)
+
 ---
 
 <picture>
@@ -52,10 +73,3 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rlaxogh76/rlaxogh76/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rlaxogh76/rlaxogh76/output/pacman-contribution-graph.svg">
 </picture>
-
-
-<h1>연락처</h1>
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/867071958071771157)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btm.email2769@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%83%9C%ED%98%B8-%EA%B9%80-099213361/)
