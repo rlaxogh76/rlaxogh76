@@ -74,4 +74,11 @@
 > [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/867071958071771157)
 > [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btm.email2769@gmail.com)
 
+<div align="center">
+    
+```
+    아직 초보 개발자라서, 부족한 내용이 많습니다. 앞으로 더 많은 내용을 추가할 예정입니다.
+    PS : 제 프로필에 방문해주셔서 감사합니다! 🤗
+```
 
+</div>
