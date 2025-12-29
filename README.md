@@ -56,8 +56,12 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rlaxogh76/rlaxogh76/output/pacman-contribution-graph.svg">
   </picture>
 
-<h2>소셜</h2>
+<h2>그외</h2>
 
+**포트폴리오**
+> [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://rlaxogh76-portfolio.notion.site/1f31a96d4e7b80468577ff858a679064?pvs=73)
+
+**소셜**
 > [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/867071958071771157)
 > [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btm.email2769@gmail.com)
 
