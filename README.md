@@ -39,7 +39,7 @@
 
 > **포트폴리오**
 > 
-> [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://rlaxogh76-portfolio.notion.site/1f31a96d4e7b80468577ff858a679064?pvs=73)
+> [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)]()
 
 > **소셜**
 > 
