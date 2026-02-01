@@ -1,22 +1,3 @@
-[![An image of @rlaxogh76's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rlaxogh76)](https://holopin.io/@rlaxogh76)
-
-<div align="center">
-    
-```
-"𝗠𝗮𝗻𝘆 𝗼𝗳 𝗹𝗶𝗳𝗲’𝘀 𝗳𝗮𝗶𝗹𝘂𝗿𝗲𝘀 𝗮𝗿𝗲 𝗽𝗲𝗼𝗽𝗹𝗲 𝘄𝗵𝗼 𝗱𝗶𝗱 𝗻𝗼𝘁 𝗿𝗲𝗮𝗹𝗶𝘇𝗲 𝗵𝗼𝘄 𝗰𝗹𝗼𝘀𝗲 𝘁𝗵𝗲𝘆 𝘄𝗲𝗿𝗲 𝘁𝗼 𝘀𝘂𝗰𝗰𝗲𝘀𝘀 𝘄𝗵𝗲𝗻 𝘁𝗵𝗲𝘆 𝗴𝗮𝘃𝗲 𝘂𝗽."
-```
-
-</div>
-
----
-
-<h2>자기소개</h2>
-<h3>프론트엔드를 통해 많은 기술을 접하며 공부 중인 김태호라고 합니다.</h3><br>
-
-- 2024.03.01 ~ 현재 [`경북소프트웨어마이스터고등학교 🏫`](https://apply.gbsw.hs.kr/)<br>
-
-<h2>기술 스택</h2>
-
 > **메인 언어 및 라이브러리**
 > 
 > ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,7 +26,7 @@
 > ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)<br>
 > ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<h2>깃허브 통계</h2>
+<!-- <h2>깃허브 통계</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=rlaxogh76&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaxogh76&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -54,25 +35,13 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rlaxogh76/rlaxogh76/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rlaxogh76/rlaxogh76/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rlaxogh76/rlaxogh76/output/pacman-contribution-graph.svg">
-  </picture>
+  </picture> -->
 
-<h2>링크</h2>
-
-**포트폴리오**
+> **포트폴리오**
+> 
 > [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://rlaxogh76-portfolio.notion.site/1f31a96d4e7b80468577ff858a679064?pvs=73)
 
-**소셜**
+> **소셜**
+> 
 > [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/867071958071771157)
 > [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btm.email2769@gmail.com)
-
-**후원**
-> [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/hoya76377)
-
-<div align="center">
-    
-```
-아직 배워야 할 것이 많은 개발자이지만, 앞으로 더 다양한 기술과 경험을 이곳에 채워나갈 예정입니다.
-프로필에 방문해주셔서 감사합니다! 🤗
-```
-
-</div>
