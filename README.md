@@ -14,7 +14,7 @@
   </a>
 </div>
 
-> **좋아하는 도구**
+> **자주 사용하는 도구**
 > 
 > ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 > ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
