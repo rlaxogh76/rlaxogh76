@@ -1,4 +1,4 @@
-[![An image of @rlaxogh76's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rlaxogh76)](https://holopin.io/@rlaxogh76)
+<img src="https://i.pinimg.com/originals/01/d1/41/01d1418ce594c386e3515dea83673111.gif" width="70%" height="40%" />
 
 > **메인 언어 및 라이브러리**
 > 
