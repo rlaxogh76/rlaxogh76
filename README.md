@@ -26,21 +26,6 @@
 > ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)<br>
 > ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!-- <h2>깃허브 통계</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=rlaxogh76&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaxogh76&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rlaxogh76/rlaxogh76/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rlaxogh76/rlaxogh76/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rlaxogh76/rlaxogh76/output/pacman-contribution-graph.svg">
-  </picture> -->
-
-> **포트폴리오**
-> 
-> [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)]()
-
 > **소셜**
 > 
 > [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btm.email2769@gmail.com)
