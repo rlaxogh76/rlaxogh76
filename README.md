@@ -29,4 +29,13 @@
 > **소셜**
 > 
 > [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btm.email2769@gmail.com)
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0C66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rlaxogh76/) 
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0C66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rlaxogh76/)
+
+<div align="left">
+
+> **통계**
+
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOBnARUQ)](https://www.git-ranker.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoya7608)](https://solved.ac/hoya7608/) 
+
+</div>
