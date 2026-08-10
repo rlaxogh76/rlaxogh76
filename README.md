@@ -33,9 +33,13 @@
 
 <div align="left">
 
+<!--
+
 > **통계**
 > 
 > [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOBnARUQ)](https://www.git-ranker.com)
 > [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoya7608)](https://solved.ac/hoya7608/) 
+
+-->
 
 </div>
